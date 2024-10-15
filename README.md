@@ -1,4 +1,10 @@
 ## Hi there 👋
+## I'm just a hobbyist programmer, and I work on stuff that interests me or seems usefull to me at the time!
+## One of the programs I've made lets me visualize message data with friends so we can laugh about our most used words and most active hours! That was one of my favorite projects.
+## Right now I'm working on reusing a small portion of that program to create a chatbot with Llama3.1 that mimics my behavior. I'm planning on turning that into a discord bot for my friend server to mess around with! This is a bit of a rebound on a roughly year-and-a-half-old project where I wanted to use LLMs to create a chatbot in my house that would also work as an assistant like Alexa, but that never saw the light of day due to hardware issues. I'm hoping this time will be different!
+## I'm currently in community college trying to work my way up to an Aerospace Engineering degree, although I've been wanting to take some coding courses too. I'm just not sure if I should because I feel like most of the classes I'd be able to get into would be a bit too beginner for me. Not to say I'm anywhere near expert or professional programming by any means!
+## I like to learn new programming skills as I go along and just slowly expand my knowledge whenever I get a new idea for a project.
+## Thanks for reading. Have an amazing day!
 
 <!--
 **MarineRec98/MarineRec98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
